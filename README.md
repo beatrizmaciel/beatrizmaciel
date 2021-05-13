@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning Java and JavaScript :)
-- 👯 I’m looking to collaborate on Backend projects
+- :floppy_disk: I’m looking to collaborate on Backend projects
 - 🤔 I’m looking for help with JavaScript
 - 📫 How to reach me: Beatriz Castelo Branco Maciel on LinkedIn
 - 😄 Pronouns: Her/She
