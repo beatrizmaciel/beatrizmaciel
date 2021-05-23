@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmaciel)](https://github.com/beatrizmaciel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmaciel&layout=compact)]
 
 <a href="https://codetrace.com/users/beatrizmaciel"><img src="https://codetrace.com/widget/beatrizmaciel" width="440" height="100" /></a>
 
