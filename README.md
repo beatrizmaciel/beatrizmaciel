@@ -18,6 +18,6 @@
 <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" />
 <img src="https://camo.githubusercontent.com/f7c3ee03e8c0f6b42e081dbc1d4baf4d524919bc7272ad550020871b8cd5ee98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c6174266c6f676f3d676974266c6f676f436f6c6f723d7768697465" alt="Git" />
 <img src="https://camo.githubusercontent.com/3c91871f985d8db2a347c06153c64b5ada57e695d12c41e8f7750e05f0f7bd4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3138313731373f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Github" />
-  <img src="https://github.com/beatrizmaciel/beatrizmaciel/blob/main/rstudio.png" width="70" height="15" />
+  <img src="https://github.com/beatrizmaciel/beatrizmaciel/blob/main/rstudio.png" width="50" height="15" />
 
 </p>
