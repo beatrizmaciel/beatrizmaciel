@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://codetrace.com/users/beatrizmaciel"><img src="https://codetrace.com/widget/beatrizmaciel" theme="dracula" width="440" height="100" /></a>
+<a href="https://codetrace.com/users/beatrizmaciel"><img src="https://codetrace.com/widget/beatrizmaciel" width="440" height="100" /></a>
 
 
 - 🌱 &nbsp; &nbsp; I’m currently learning Java and JavaScript :)
