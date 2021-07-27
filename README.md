@@ -5,7 +5,7 @@
 
 - 🌱 &nbsp; &nbsp; I’m currently learning Java and JavaScript :)
 - :floppy_disk: &nbsp;&nbsp;  I’m looking to collaborate on Backend projects
-- :cyclone: &nbsp;&nbsp; I’m looking for help with JavaScript
+- :cyclone: &nbsp;&nbsp; I’m looking for help with Java
 - :paperclip: &nbsp;&nbsp; How to reach me: /beatrizcbmaciel on LinkedIn
 - :watermelon: &nbsp;&nbsp; Fun fact: I am a Sociologist and I research migration and refuge worldwide!
 
