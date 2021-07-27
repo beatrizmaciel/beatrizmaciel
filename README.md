@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, mundo! 👋
 
 <a href="https://codetrace.com/users/beatrizmaciel"><img src="https://codetrace.com/widget/beatrizmaciel" width="320" height="75" /></a>
 
