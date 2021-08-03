@@ -1,4 +1,4 @@
-### :earth_americas:  Hi, Universe!  :saturn: :dizzy:
+### :earth_americas:  Hi, Universe!  :waning_crescent_moon: :dizzy:
 
 <a href="https://codetrace.com/users/beatrizmaciel"><img src="https://codetrace.com/widget/beatrizmaciel" width="320" height="75" /></a>
 
