@@ -1,4 +1,4 @@
-### :earth_americas:  Hi, Universe!  :milky_way: :dizzy:
+### :earth_americas:  Hi, Universe!  :saturn: :dizzy:
 
 <a href="https://codetrace.com/users/beatrizmaciel"><img src="https://codetrace.com/widget/beatrizmaciel" width="320" height="75" /></a>
 
