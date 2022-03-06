@@ -1,13 +1,19 @@
 ### :earth_americas:  Hi, Universe!  :waning_crescent_moon: :dizzy:
+I'm Beatriz :) A Java software engineer. Welcome to my github!
 
-<a href="https://codetrace.com/users/beatrizmaciel"><img src="https://codetrace.com/widget/beatrizmaciel" width="320" height="75" /></a>
+-----
 
-
-- 🌱 &nbsp; &nbsp; I’m currently learning Java and React :)
-- :floppy_disk: &nbsp;&nbsp;  I’m looking to collaborate on Backend projects
+- 🌱 &nbsp; &nbsp; I’m currently learning Java and Spring :)
+- :floppy_disk: &nbsp;&nbsp;  I’m looking to collaborate on back-end projects
 - :cyclone: &nbsp;&nbsp; I’m looking for help with Java 
-- :paperclip: &nbsp;&nbsp; How to reach me: /beatrizcbmaciel on LinkedIn
+- :paperclip: &nbsp;&nbsp; How to reach me: [/beatrizcbmaciel](https://www.linkedin.com/in/beatrizcbmaciel/) on LinkedIn
 - :watermelon: &nbsp;&nbsp; Fun fact: I am a Sociologist and I researched migration and refuge worldwide!
+
+-----
+other links
+
+- check out my actual stack and experience at [codetrace](https://codetrace.com/users/beatrizmaciel)
+- at [dev.to](https://dev.to/beatrizmaciel) you can find articles in brazilian portuguese about Java and Adobe Experience Manager (AEM).
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmaciel&layout=compact&theme=dracula)
 
