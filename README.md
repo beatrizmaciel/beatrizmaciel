@@ -1,11 +1,11 @@
-### :earth_americas: 🌠 🪐  Hi, Universe! 🌙 :waning_crescent_moon: :dizzy:
+### 🛸 🌠 🪐  Hi, Universe! 🌙 :waning_crescent_moon: :dizzy:
 Welcome to my github!
 
 
 
--  I’m currently learning Java ☕ and Spring 🍃 and I’m looking to collaborate on back-end projects
+-  I’m currently learning Java ♨ and Spring 🍃 and I’m looking to collaborate on back-end projects
 - you can find me at: [/beatrizcbmaciel](https://www.linkedin.com/in/beatrizcbmaciel/) on LinkedIn
-- fun fact: I am a Sociologist and I researched migration and refuge worldwide! 🧭
+- fun fact: I am a Sociologist and I researched migration and refuge worldwide! 🌍🌎🌏
 
 =====
 
