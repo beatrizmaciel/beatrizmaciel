@@ -1,4 +1,4 @@
-### 🛸 🌠 🪐  Hi, Universe! 🌙 :waning_crescent_moon: :dizzy:
+### 🛸 🌠 Hi, Universe! 🌙 :waning_crescent_moon: :dizzy:
 Welcome to my github!
 
 
