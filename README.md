@@ -1,7 +1,15 @@
 ### 🛸 🌠 Hi, Universe! 🌙 :waning_crescent_moon: :dizzy:
 Welcome to my github!
 
-
+```java
+public class BeatrizMaciel {
+  public static void main(String[] args) {
+    String[] pronouns = { "she", "her" };
+    String[] languages = { "Java", "JavaScript", "HTML", "CSS" };
+    String[] tools = { "React.js", "Spring", "Vue.js" };
+  }
+}
+```
 
 -  I’m currently learning Java ♨ and Spring 🍃 and I’m looking to collaborate on back-end projects
 - you can find me at: [/beatrizcbmaciel](https://www.linkedin.com/in/beatrizcbmaciel/) on LinkedIn
@@ -14,6 +22,8 @@ Welcome to my github!
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizmaciel&layout=compact&theme=dracula)
+
+
 
 <p>
 <img src="https://camo.githubusercontent.com/2fad14d202b24de54ef28fb28fc41b3fe661fc22ca72ab6045ed280d277bb536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML5" />
