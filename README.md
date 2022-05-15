@@ -1,5 +1,4 @@
-### 🛸 🌠 Hi, Universe! 🌙 :waning_crescent_moon: :dizzy:
-Welcome to my github!
+### Hi, Universe! 🌙 :waning_crescent_moon: :dizzy:
 
 ```java
 public class BeatrizMaciel {
@@ -10,6 +9,8 @@ public class BeatrizMaciel {
   }
 }
 ```
+
+Welcome to my github!
 
 -  I’m currently learning Java ♨ and Spring 🍃 and I’m looking to collaborate on back-end projects
 - you can find me at: [/beatrizcbmaciel](https://www.linkedin.com/in/beatrizcbmaciel/) on LinkedIn
