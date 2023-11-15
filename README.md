@@ -4,8 +4,8 @@
 public class BeatrizMaciel {
   public static void main(String[] args) {
     String[] pronouns = { "she", "her" };
-    String[] languages = { "Java", "JavaScript", "HTML", "CSS" };
-    String[] tools = { "Adobe Experience Manager", "React.js", "Spring", "Vue.js" };
+    String[] languages = { "Java", "JavaScript" };
+    String[] tools = { "Adobe Experience Manager", "React.js", "Spring Boot" };
   }
 }
 ```
