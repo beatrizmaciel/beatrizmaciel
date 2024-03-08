@@ -4,7 +4,7 @@
 public class BeatrizMaciel {
   public static void main(String[] args) {
     String[] pronouns = { "she", "her" };
-    String[] languages = { "Java", "JavaScript" };
+    String[] languages = { "Java", "JavaScript", "Python" };
     String[] tools = { "Adobe Experience Manager", "React.js", "Spring Boot" };
   }
 }
